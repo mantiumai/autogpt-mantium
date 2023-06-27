@@ -4,6 +4,8 @@
 
 ## 🌟 Key Features
 
+- Harness the full potential of AI without the complexity. Connect your data to Auto-GPT and transform it into a powerful tool that understands your business and helps you achieve more.
+- Query your data without any coding required.
 - Fetches user-created applications from Mantium and retrieves relevant info based on user queries.
 
 ## 🔧 Installation
