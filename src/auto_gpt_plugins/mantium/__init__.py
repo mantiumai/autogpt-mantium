@@ -1,4 +1,4 @@
-"""Wikipedia search integrations."""
+"""Mantium search integrations."""
 from typing import Any, Dict, List, Optional, Tuple, TypedDict, TypeVar
 
 from auto_gpt_plugin_template import AutoGPTPluginTemplate
@@ -15,7 +15,7 @@ class Message(TypedDict):
 
 class AutoGPTMantium(AutoGPTPluginTemplate):
     """
-    Wikipedia search integrations
+    Mantium search integrations
     """
 
     def __init__(self):

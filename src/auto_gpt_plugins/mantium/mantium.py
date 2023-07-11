@@ -24,6 +24,6 @@ class MantiumApp:
         return self.apps_api.get_application_detail(app_id)
 
     def query_application(self, app_id: str, query: str) -> str:
-        """Sends query to specific application and retrieves top-5 answers."""
+        """Sends query to specific application and retrieves top-10 answers."""
         query_request = {'query': query}
         return self.apps_api.query_application(app_id, query_request)
